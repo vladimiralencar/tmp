@@ -1,0 +1,51 @@
+id_da_onda,operacao,numero_da_onda,data_evento,pais,latitude,longitude,drones_utilizados,misseis_balisticos_utilizados,misseis_de_cruzeiro_utilizados,estimated_munitions_count,estimated_intercept_rate,danos,mortes,feridos,interceptado
+tp1_w01,tp1,1,,IL,30.89,34.78,True,False,True,200.0,0.99,Minimal ^aEUR" most munitions intercepted before reaching Israeli airspace,0.0,0.0,True
+tp1_w02,tp1,2,,IL,30.89,34.78,False,True,False,120.0,0.99,Minor damage to Nevatim Airbase (base remained operational); debris fell in Arad region,0.0,32.0,True
+tp2_w01,tp2,1,,"IL, JO, PS",30.89,34.78,False,True,False,100.0,,Nevatim Airbase: hangar and taxiway damaged (20-32 impacts confirmed by satellite); Tel Nof Airbase: several impacts; Gedera: school building hit,1.0,4.0,True
+tp2_w02,tp2,2,,"IL, JO, PS",32.15,34.79,False,True,False,100.0,,Missiles landed near Mossad/Unit 8200 HQ (~500m); homes and restaurant damaged in north Tel Aviv area; additional impacts at Nevatim and Tel Nof,1.0,4.0,True
+tp3_w01,tp3,1,,IL,31.66,34.78,True,True,False,100.0,,Serious damage to sensitive military centers in Tel Aviv area,,,True
+tp3_w02,tp3,2,,IL,32.835,35.25,True,True,False,,,State of emergency declared across Israel,,,True
+tp3_w03,tp3,3,,IL,32.07,34.77,True,True,False,,,nan,,,True
+tp3_w04,tp3,4,,IL,32.445,34.885,False,True,False,,,Continued escalation ^aEUR" strikes on urban areas,,,True
+tp3_w05,tp3,5,,IL,32.82,35.0,False,True,False,,,Haifa oil refinery directly hit and shut down,,,True
+tp3_w06,tp3,6,,IL,32.445,34.885,False,True,False,,,"Bat Yam residential building struck ^aEUR" 9 killed (incl. 5 Ukrainian nationals), 200+ injured, 61 buildings damaged. Worst single incident of the war.",9.0,200.0,True
+tp3_w07,tp3,7,,IL,32.445,34.885,False,True,False,,,nan,,,True
+tp3_w08,tp3,8,,IL,32.445,34.885,False,True,False,,,Targeted command and control systems,,,True
+tp3_w09,tp3,9,,IL,32.445,34.885,False,True,False,,,nan,,,True
+tp3_w10,tp3,10,,IL,32.0567,35.02,False,True,False,,,Nevatim Airbase absorbed ~32 MRBMs; direct hit on hardened F-35I shelter (IDF claimed no aircraft damaged). Glilot intel base hit. Tel Nof base hit. Kirya HQ damaged.,,,True
+tp3_w11,tp3,11,,IL,31.25,34.79,False,True,False,,,Fattah-1 used to destroy air defense radar systems,,,True
+tp3_w12,tp3,12,,IL,32.07,34.77,False,True,False,8.0,,nan,,,True
+tp3_w13,tp3,13,,IL,32.445,34.885,True,True,False,,,nan,,,True
+tp3_w14,tp3,14,,IL,32.445,34.885,True,True,False,,,nan,,,True
+tp3_w18,tp3,18,,IL,31.62,35.06,True,True,False,,,"14 strategic military sites targeted including Hadera power plant, Haifa oil refinery, Ovda airbase (cyber command), Kiryat Gat semiconductor zone, Rafael center Haifa. Bazan Oil Refinery struck (3 killed, refinery shut down). Haifa Power Plant struck (fire).",3.0,,True
+tp3_w19,tp3,19,,IL,32.445,34.885,True,True,False,,,nan,,,True
+tp3_w20,tp3,20,,IL,32.07,34.77,False,True,False,40.0,,Ben Gurion Airport temporarily shut down; flight diversions for 36 hours,,,True
+tp3_w21,tp3,21,,IL,32.07,34.77,False,True,False,,,nan,,,True
+tp3_w22,tp3,22,,IL,31.25,34.79,False,True,False,14.0,,"Beersheba residential building struck at 5:40am IST. 4 killed, 20 injured. Final missiles until 7:10am. IRGC called it a 'historic lesson'.",4.0,20.0,True
+tp4_w01,tp4,1,,"AE, BH, IL, IQ, JO, OM, QA",31.07,34.79,True,True,False,,,"Impacts reported in Tel Aviv (1 fatality, 21 injuries) and Bnei Brak (several injuries). Damage to US facilities in Gulf region.",2.0,21.0,True
+tp4_w02,tp4,2,,"IL, IQ",32.07,34.77,True,True,False,,,nan,0.0,0.0,True
+tp4_w03,tp4,3,,"AE, BH, IL, IQ, JO, KW, SA",32.58,35.09,True,True,True,35.0,,Abdullah Al-Mubarak Air Base in Kuwait reportedly disabled. Damage to Harir base in Iraq.,0.0,0.0,True
+tp4_w04,tp4,4,,"IL, IQ, KW",31.66,34.78,True,True,False,,,Continued strikes on Gulf and Israeli targets,0.0,0.0,True
+tp4_w05,tp4,5,,"CY, IO, KW",29.24,47.97,True,True,True,,,IRGC claims strikes on American vessels and Abdullah Mubarak naval base in Kuwait. Oil tanker reportedly struck in Indian Ocean.,0.0,0.0,nan
+tp4_w06,tp4,6,,IL,32.445,34.885,True,True,False,,,"IRGC claims hits on Tel Nof Air Base, HaKirya HQ, and Haifa naval installations",0.0,0.0,True
+tp4_w07,tp4,7,,"AE, BH, IL, IO, KW, SA",29.35,47.52,True,True,True,,,Three US/British oil tankers in Persian Gulf struck and reportedly engulfed in fire. Ali Al-Salem naval base Kuwait shut down. Heavy damage to US base in Bahrain.,0.0,0.0,nan
+tp4_w09,tp4,9,,"BH, CY, IL, KW, QA",32.07,34.77,True,True,False,,,IRGC claims strikes on 60 strategic targets and 500 combined US/Israeli sites since operation start. Cluster munition warhead strike near Tel Aviv injured 12.,9.0,40.0,nan
+tp4_w10,tp4,10,,"IL, SA",32.09,34.78,False,True,False,,,"IRGC claims hits on Israeli government complex in Tel Aviv, military/security centers in Haifa, and East Jerusalem. Strike in Beersheba injured at least 10.",0.0,10.0,nan
+tp4_w11,tp4,11,,"AE, BH, CY, IL, JO, KW, OM, QA, SA",31.9875,35.07,True,True,False,,,"IRGC claims strikes on US intelligence centers, military support warehouses in Persian Gulf, Israeli army communications complex in Beersheba, 20+ points in Tel Aviv/West Jerusalem/Galilee",0.0,0.0,nan
+tp4_w12,tp4,12,,"AE, BH, IO, IQ, KW",28.93,48.1,True,True,False,31.0,,IRGC Navy claims: Arifjan base Kuwait hit by 12 drones in two phases; Al Minhad base UAE hit by 6 drones and 5 ballistic missiles; US naval facilities Bahrain destroyed by 6 drones; fuel tanker Athens Nova in Strait of Hormuz struck by 2 drones and still burning.,0.0,0.0,nan
+tp4_w13,tp4,13,,KW,28.93,48.1,True,False,False,,,IRGC claims strikes on US Marine Corps installations at Arifjan base Kuwait,0.0,0.0,nan
+tp4_w14,tp4,14,,"BH, SA",25.92,50.59,True,True,False,23.0,,IRGC claims main command building and HQ of US air base destroyed; fuel tanks set on fire. 20 drones and 3 missiles claimed to have hit targets.,0.0,0.0,nan
+tp4_w15,tp4,15,,"AE, BH, IL, QA, SA",32.07,34.77,True,True,False,,,"Strikes on Al-Udeid Air Base Qatar and Israeli positions. IRGC claims 7 Israeli drones shot down (Hermes, Heron, MQ-9). Suspected cluster/fragmentation warhead detonation in Bnei Brak/Petah Tikva causing blast damage; 7 wounded (1 moderate, 6 light) per Haaretz.",0.0,0.0,nan
+tp4_w16,tp4,16,,"AE, CY, IL, IQ, KW, SA, TR",32.46,35.135,True,True,False,,,"IRGC claims strikes on HaKirya (IDF general staff and Ministry of War), strategic infrastructure in Bnei Brak, military targets in Beit Hakfa",0.0,0.0,nan
+tp4_w17,tp4,17,,IL,32.07,34.77,False,True,False,,,nan,0.0,0.0,nan
+tp4_w19,tp4,19,,"BH, IL, KW, QA",31.925,34.995,True,True,False,,,"IRGC claims strikes on Israeli Defense Ministry Tel Aviv, Ben Gurion Airport, 7+ US/Israeli radar systems destroyed. One missile struck open area in central Israel. Amazon facility Bahrain allegedly suffered extensive damage.",0.0,0.0,True
+tp4_w20,tp4,20,,IL,32.0853,34.7818,True,True,False,,,"Missile fragments and submunitions from cluster bomb warhead impacted several areas in central Israel, causing damage. One impact site in a central town sparked a fire. Police confirmed cluster bomb warhead. Each submunition carries ~2.5 kg explosive, ~20 submunitions per warhead, dispersal radius ~8 km. Submunitions designed to explode on impact; unexploded submunitions pose landmine-like hazard.",0.0,0.0,nan
+tp4_w21,tp4,21,,IL,32.0853,34.7818,True,True,False,,,IRGC claims cluster warhead submunitions dispersed across target areas. No specific damage reports confirmed by Israeli sources.,0.0,0.0,nan
+tp4_w22,tp4,22,,"AE, IL, QA",32.445,34.885,True,True,False,,,"IRGC claims strikes on Tel Aviv, Ben Gurion Airport, military centers in Haifa. Claims Al Udeid radar systems, air traffic control, satellite stations, and fuel depots obliterated. Claims Al Dhafra early warning radar and critical infrastructure destroyed by precision strikes and drone swarms. No confirmed Israeli casualties.",0.0,0.0,True
+tp4_w23,tp4,23,,"AE, BH, IL, KW, QA, SA",31.25,34.79,True,True,nan,,,nan,0.0,0.0,True
+tp4_w24,tp4,24,,IL,32.07,34.77,nan,True,nan,45.0,,Minor structural damage in Tel Aviv and Givatayim. Three missile impacts confirmed in Tel Aviv metro.,0.0,5.0,True
+tp4_w25,tp4,25,,"AE, IL",32.85,35.5,True,True,nan,60.0,,nan,0.0,0.0,True
+tp4_w26,tp4,26,,"AE, IL, KW",32.85,35.5,True,True,nan,37.0,,Damage to radar installations at Sdot Micha. Sirens in Kiryat Shmona and Upper Galilee.,0.0,0.0,True
+tp4_w27,tp4,27,,"IL, KW",32.82,35.0,True,True,nan,30.0,,Iranian state media claimed drone swarm hit Haifa refinery causing large fires. Unconfirmed.,0.0,0.0,True
+tp4_w28,tp4,28,,"IL, JO",31.66,34.78,False,True,False,,,Iranian media claimed direct ballistic missile impact in central Israel; large explosions reported in Tel Aviv. Unconfirmed independently.,,,nan
+tp4_w29,tp4,29,,IL,31.66,34.78,nan,True,nan,,,nan,,,nan

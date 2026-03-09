@@ -1,0 +1,55 @@
+Field,Label,Value
+id,Dataset ID,0febfaed-7f79-48d2-956c-81bdaa9c3dcf
+title,Title of Dataset,Iran - Conflict Events
+name,Dataset URL,iran-acled-conflict-data
+notes,Description,"A weekly dataset providing the total number of reported political violence, civilian-targeting, and demonstration events in Iran. Note: These are aggregated data files organized by country-year and country-month. To access full event data, please <a href=""https://acleddata.com/register/"">register</a> to use the <a href=""https://acleddata.com/data-export-tool/"">Data Export Tool</a> and <a href=""https://acleddata.com/download/2833/"">API</a> on the ACLED website."
+dataset_source,Source,Armed Conflict Location & Event Data Project (ACLED)
+organization,Contributor,Armed Conflict Location & Event Data Project (ACLED)
+dataset_date,Reference Period,[2016-01-01T00:00:00 TO 2026-02-27T23:59:59]
+last_modified,Updated,2026-03-04T14:56:24.876914
+data_update_frequency,Expected Update Frequency,Every week
+groups,Location,Iran (Islamic Republic of)
+license_title,License,Other
+methodology,Methodology,Other
+methodology_other,Define Methodology,"Please review the [ACLED Codebook](https://acleddata.com/download/2827) for more information about event definitions, sub-event definitions, and coding methodology. For more information about our fatality and sourcing methodology, please review our [Fatality FAQs](https://acleddata.com/acleddatanew/wp-content/uploads/dlm_uploads/2020/02/FAQs_-ACLED-Fatality-Methodology_2020.pdf) and [Sourcing FAQs](https://acleddata.com/acleddatanew/wp-content/uploads/dlm_uploads/2020/02/FAQs_ACLED-Sourcing-Methodology.pdf). Time period coverage varies by country and region, so please consult the ACLED [Coverage List](https://acleddata.com/download/4404/). For more methodology resources, click [here](https://acleddata.com/resources/general-guides/)."
+caveats,Caveats/Comments,
+tags,Tags,conflict-violence
+resource_1_created,Created,2021-12-15T00:46:54.369768
+resource_1_description,Description,"A weekly dataset providing the total number of reported political violence events and fatalities in Iran broken down by month. Political violence events include ACLED’s battles, violence against civilians, and explosions/remote violence event types, as well as the mob violence sub-event type of the riots event type."
+resource_1_format,File Format,XLSX
+resource_1_download_url,Download URL,https://data.humdata.org/dataset/0febfaed-7f79-48d2-956c-81bdaa9c3dcf/resource/9d9e94a8-7f99-4d08-a006-368cff6965ce/download/iran_political_violence_events_and_fatalities_by_month-year_as-of-04mar2026.xlsx
+resource_1_id,Resource ID,9d9e94a8-7f99-4d08-a006-368cff6965ce
+resource_1_last_modified,Updated,2026-03-04T14:56:24.876359
+resource_1_metadata_modified,Metadata Updated,2026-03-04T14:56:29.828484
+resource_1_microdata,Microdata,False
+resource_1_dataset_id,Dataset ID,0febfaed-7f79-48d2-956c-81bdaa9c3dcf
+resource_1_resource_type,Resource Type,file.upload
+resource_1_name,Resource Name,iran_political_violence_events_and_fatalities_by_month-year
+resource_1_mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+resource_1_size,Size,9.6K
+resource_2_created,Created,2021-12-15T00:46:54.369775
+resource_2_description,Description,A weekly dataset providing the total number of reported civilian targeting events and fatalities in Iran broken down by month. Civilian targeting events include violence against civilians events and explosions/remote violence events in which civilians were directly targeted.
+resource_2_format,File Format,XLSX
+resource_2_download_url,Download URL,https://data.humdata.org/dataset/0febfaed-7f79-48d2-956c-81bdaa9c3dcf/resource/4b974a7a-f164-42fa-b542-50397ee653a9/download/iran_civilian_targeting_events_and_fatalities_by_month-year_as-of-04mar2026.xlsx
+resource_2_id,Resource ID,4b974a7a-f164-42fa-b542-50397ee653a9
+resource_2_last_modified,Updated,2026-03-04T14:56:24.876646
+resource_2_metadata_modified,Metadata Updated,2026-03-04T14:56:30.305076
+resource_2_microdata,Microdata,False
+resource_2_dataset_id,Dataset ID,0febfaed-7f79-48d2-956c-81bdaa9c3dcf
+resource_2_resource_type,Resource Type,file.upload
+resource_2_name,Resource Name,iran_civilian_targeting_events_and_fatalities_by_month-year
+resource_2_mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+resource_2_size,Size,9.6K
+resource_3_created,Created,2021-12-15T00:46:54.369779
+resource_3_description,Description,"A weekly dataset providing the total number of reported demonstration events in Iran broken down by month. Demonstration events include ACLED’s protests and riots event types, with the exception of the mob violence sub-event type of the riots event type."
+resource_3_format,File Format,XLSX
+resource_3_download_url,Download URL,https://data.humdata.org/dataset/0febfaed-7f79-48d2-956c-81bdaa9c3dcf/resource/77ba9902-eee5-4cd8-b77b-5d9b08afd89e/download/iran_demonstration_events_by_month-year_as-of-04mar2026.xlsx
+resource_3_id,Resource ID,77ba9902-eee5-4cd8-b77b-5d9b08afd89e
+resource_3_last_modified,Updated,2026-03-04T14:56:24.876914
+resource_3_metadata_modified,Metadata Updated,2026-03-04T14:56:29.499056
+resource_3_microdata,Microdata,False
+resource_3_dataset_id,Dataset ID,0febfaed-7f79-48d2-956c-81bdaa9c3dcf
+resource_3_resource_type,Resource Type,file.upload
+resource_3_name,Resource Name,iran_demonstration_events_by_month-year
+resource_3_mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+resource_3_size,Size,9.2K
